@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**daniel-china-sz/daniel-china-sz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **daniel**.
+ 
+I'm an indie developer. I run [ai-info](https://ai-info.fastget.link) — a plain-English
+reference site for developers working with open-weight Chinese AI APIs: pricing
+breakdowns, model comparisons (DeepSeek, GLM, Qwen), and deployment guides.
+ 
+Why I built it: when I was comparing API prices and quotas, most of what ranked was
+either marketing copy or outdated blog spam. I wanted the numbers in one place,
+checked against official docs, with the source dated. So I started writing that
+instead of waiting for it.
+ 
+Things I currently write about:
+ 
+- **DeepSeek** — V4 pricing, context caching, long-context behavior quirks
+- **GLM / Z.ai** — Coding Plan economics, Bedrock hosting costs vs. direct API
+- **Local deployment** — what actually fits on a DGX Spark-class box, and what doesn't
+ 
+Everything on the site links to primary sources. When two sources disagree,
+I quote both instead of picking a winner.
+ 
+- 🌐 [ai-info.fastget.link](https://ai-info.fastget.link)
+- 🌐 [me.fastget.link](https://me.fastget.link)
+- 📫 Contact: danielfu@live.com
